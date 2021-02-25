@@ -22,7 +22,7 @@ This will be a pretty extensive lab that will combine a number of the concepts t
 * Building out a form and wiring it up to the `create` action
 
 * Linking pages together
-
+ 
 
 In this lab, the application you will be starting out with will be completely blank. There are no models, views, controllers, et cetera. It has a number of RSpec and Capybara tests that will all need to pass to complete the lab. The tests can be found in the `spec` directory, in the `models`, `features`, and `controllers` sub-directories. Feel free to walk through the specs to see what behavior the application should have when you're done.
 
